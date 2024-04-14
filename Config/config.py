@@ -1,0 +1,8 @@
+URL = "https://amazon.in"
+mobileNumber = "9234346483"
+password = "Shazad.Khan@123"
+username = "Shazad khan"
+pincode = "832110"
+address1 = "H.no 202, Zaman Residency, gulab bagh, phase 1"
+address2 = "mango, Jamshedpur"
+nearby = "Zaman Residency"
